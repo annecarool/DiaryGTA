@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Class Diary</string>
+
+    <string name="student.name">Mario</string>
+    <string name="student.course">Pilot</string>
+
+    <string name="student.grades">Grade: </string>
+    <string name="student.absences">Absences: </string>
+
+    <string name="login">Connect and get access to your class\'s gradebook.</string>
+
+    <string name="user">Your user:</string>
+    <string name="userfield">User</string>
+
+    <string name="password">Your password:</string>
+    <string name="passwordfield">Password</string>
+
+    <string name="sign">SIGN IN</string>
+
+    <string name="terms">By signing up, you agree to our Terms of Service and acknowledge that our Privacy Policy applies to you.</string>
+</resources>
